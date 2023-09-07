@@ -1,0 +1,22 @@
+{
+  "name": "projetoM4",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "projetoM4",
+      "version": "1.0.0",
+      "license": "MIT",
+      "dependencies": {
+        "readline-sync": "^1.4.10"
+      }
+    },
+    "node_modules/readline-sync": {
+      "version": "1.4.10",
+      "engines": {
+        "node": ">= 0.8.0"
+      }
+    }
+  }
+}

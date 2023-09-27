@@ -10,3 +10,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Node.js
 
 readline-sync
+
+## Instalação
+
+Antes de começar, certifique-se de atender aos seguintes requisitos:
+
+Instale as dependências executando o seguinte comando:
+
+```bash
+npm install
+
+Execute o programa com o seguinte comando:
+npm start
+```
+
+Clone o repositório:
+
+```bash
+Copy code: git clone https://github.com/Letiti4/projetoM4.git
+```
+Navegue até o diretório do projeto

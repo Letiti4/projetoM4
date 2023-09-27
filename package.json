@@ -2,10 +2,9 @@
   "type": "module",
   "name": "projetoM4",
   "version": "1.0.0",
-  "description": "",
+  "description": "Um projeto Node.js para ... (insira uma descrição significativa aqui)",
   "main": "app.js",
-    "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"app.js"
+  "scripts": {
+    "start": "node app.js"
   }
 }

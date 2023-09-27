@@ -1,10 +1,13 @@
 {
-  "type": "module",
-  "name": "projetoM4",
+  "name": "ordenando-propriedades-css",
   "version": "1.0.0",
-  "description": "Um projeto Node.js para ... (insira uma descrição significativa aqui)",
+  "description": "Um programa simples para inserção e exibição de propriedades CSS.",
   "main": "app.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
   "scripts": {
     "start": "node app.js"
-  }
+  },
+  "author": "Leticia de Oliveira"
 }

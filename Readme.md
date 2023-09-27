@@ -30,3 +30,31 @@ Clone o repositório:
 Copy code: git clone https://github.com/Letiti4/projetoM4.git
 ```
 Navegue até o diretório do projeto
+
+## Como utilizar:
+
+O programa solicitará que você digite propriedades CSS uma por vez. Digite uma propriedade e pressione "Enter". Repita este passo para adicionar mais propriedades.
+
+```bash
+'Digite uma propriedade CSS (ou "SAIR" para encerrar)':
+font-size [Enter]
+
+'Digite uma propriedade CSS (ou "SAIR" para encerrar)':
+display [Enter]
+
+'Digite uma propriedade CSS (ou "SAIR" para encerrar)':
+background-color [Enter]
+
+'Digite uma propriedade CSS (ou "SAIR" para encerrar)':
+SAIR [Enter]
+```
+
+## Saída no terminal:
+
+
+O programa exibirá as propriedades CSS inseridas em ordem alfabética.
+
+## Finalização
+Autor: Leticia de Oliveira
+
+Agradecimentos: Agradeço a todos os contribuidores Leo, Vic, Thanny e Le, bem como à comunidade de desenvolvedores por seu apoio e inspiração.

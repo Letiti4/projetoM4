@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    },
+    "type": "module",
+    "name": "ProjetoM4",
+    "description": "",
+    "version": "1.0.0",
+    "main": "projeto.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start":"node app.js"
+    },
+    "author": "Leticia",
+    "license": "MIT"
+  }
